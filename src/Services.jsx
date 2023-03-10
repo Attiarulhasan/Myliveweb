@@ -1,6 +1,4 @@
 import React  from "react";
-import Sdata from "./Sdata";
-import Card from "./Card";
 import Eam from "../src/images/Eam.png";
 import tellus from "../src/images/Tellus.png"
 import homedeco from "../src/images/Homedeco.png";

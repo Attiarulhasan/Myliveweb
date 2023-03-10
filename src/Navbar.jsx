@@ -4,10 +4,7 @@ import FacebookIcon from '../node_modules/@material-ui/icons/Facebook';
 import TwitterIcon from '../node_modules/@material-ui/icons/Twitter';
 import YouTubeIcon from '../node_modules/@material-ui/icons/YouTube';
 import LinkedInIcon from '../node_modules/@material-ui/icons/LinkedIn';
-import Sdata from "./Sdata";
 import logo from "../src/images/logo.png";
-
-
 
 const Navbar = () =>{
     return(

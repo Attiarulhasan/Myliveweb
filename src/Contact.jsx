@@ -1,11 +1,10 @@
-import React, { useState }  from "react";
+
 import "./index.css";
 import img1 from "../src/images/Layer 30.png";
 import img2 from "../src/images/Layer 31.png";
-import img3 from "../src/images/Rectangle 20.png";
+
 const Contact =()  =>{
-    const InputEvent=(event)=>{
-};
+
     return  (
         <>
        <div className="container-fluid outer-container pt-4 p-0">

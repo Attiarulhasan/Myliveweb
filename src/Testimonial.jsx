@@ -1,11 +1,4 @@
 import React  from "react";
-
-import slidimg1 from "../src/images/Layer 26.png"
-import slidimg2 from "../src/images/Layer 27.png"
-import slidimg3 from "../src/images/Layer 28.png"
-import image4 from "../src/images/Layer 1.png";
-import image5 from "../src/images/Layer 2.png";
-import image6 from "../src/images/Layer 3.png";
 import img1 from "../src/images/cock.png";
 import img2 from "../src/images/dropbox.png";
 import img3 from "../src/images/intel.png";
@@ -98,7 +91,7 @@ const Testimonial = ()=>{
 			</div>
             </div>
             <div className="container-fluid pt-5">
-                <div className="row testmonial text-center">
+                <div className="row testmonial text-center justify-content-center">
                     <div className="col-lg-2 col-md-2 col-12 mb-2">
                       <img src={img1} className="img-fluid" alt="cock"/>
                     </div>

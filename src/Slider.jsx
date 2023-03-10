@@ -1,13 +1,9 @@
 import React from 'react';
-import software from "../src/images/04-large.jpg";
 import digital from "../src/images/slider1.png";
-import marketing from "../src/images/06-large.jpg";
-import android from "../src/images/07-large.jpg";
 import sliderimg2 from "../src/images/Layer 24.png";
 const Slider =() =>{
     return (
         <>
-       
 <div className="container-fluid slider_container">
 <div className="slider_overlay">
           <div className="contents">

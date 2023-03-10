@@ -6,14 +6,9 @@ import Home  from "./Home";
 import About from "./About";
 import Services from "./Services";
 import Navbar  from "./Navbar";
-import Sdata from "./Sdata";
 import Footer from "./Footer";
-import Slider from "./Slider";
-import Blog from "./Blog";
-import Testimonial from "./Testimonial";
 import Contact from "./Contact";
 import "./index.css";
-import Pricecard from "./Pricecard";
 const App =()=>{
   return (
     <>

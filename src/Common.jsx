@@ -1,6 +1,4 @@
 import React  from "react";
-import { NavLink } from "react-router-dom";
-import web from "../src/images/vector-art-2.png";
 const Common =(props)  =>{
     return  (
         <>
