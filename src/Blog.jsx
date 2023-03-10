@@ -3,9 +3,7 @@ import slidimg1 from "../src/images/Layer 26.png"
 import slidimg2 from "../src/images/Layer 27.png"
 import slidimg3 from "../src/images/Layer 28.png"
 import image4 from "../src/images/Layer 1.png";
-import image5 from "../src/images/Layer 2.png";
 import image6 from "../src/images/Layer 3.png";
-
 const Blog =()=>{
     return(
 

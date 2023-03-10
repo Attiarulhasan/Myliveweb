@@ -2,9 +2,7 @@
 import "./index.css";
 import img1 from "../src/images/Layer 30.png";
 import img2 from "../src/images/Layer 31.png";
-
 const Contact =()  =>{
-
     return  (
         <>
        <div className="container-fluid outer-container pt-4 p-0">
